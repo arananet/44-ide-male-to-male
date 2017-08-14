@@ -10,7 +10,7 @@ Este adaptador permite conectar una unidad de disco de 44 pines ide hembra o un 
 
 # Pin out is flipped
 
-| Side 1 pin 1 | Side 2 pin 1 | 
+| Conn 1 pin 1 | Conn 2 pin 1 | 
 | -------------| -------------|
 | 1            | 2            |
 
