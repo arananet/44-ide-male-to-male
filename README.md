@@ -16,6 +16,7 @@ Este adaptador permite conectar una unidad de disco de 44 pines ide hembra o un 
 | Conn 1 pin 1 | Conn 2 pin 1 | 
 | -------------| -------------|
 | 1            | 2            |
+| 43           | 44           |
 
 
 # BOM | Lista de materiales
