@@ -7,7 +7,7 @@ Este adaptador permite conectar una unidad de disco de 44 pines ide hembra o un 
 <img src="https://github.com/arananet/44-ide-male-to-male/blob/master/images/USB2SATAIDE.B.jpg?raw=true" width="400">
 
 
-# Imagen
+# Image
 
 <img src="https://github.com/arananet/44-ide-male-to-male/blob/master/images/adaptador.png?raw=true" width="400">
 
