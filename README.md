@@ -4,6 +4,8 @@ This adapter allows to connect a 44 pin female hard drive or cf sd ide female ad
 
 Este adaptador permite conectar una unidad de disco de 44 pines ide hembra o un adaptador cfsd ide hembra a un lector ide usb con zócalo hembra.
 
+
+
 # Imagen
 
 <img src="https://github.com/arananet/44-ide-male-to-male/blob/master/images/adaptador.png?raw=true" width="400">
